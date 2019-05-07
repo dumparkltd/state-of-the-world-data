@@ -1,4 +1,4 @@
-﻿year,country_code,metric_code,group,standard,average_score_wrt_immediate_duty,average_score_wrt_global_best,average_immediate_duty_wrt_global_best
+﻿year,country_code,metric_code,group,standard,score_wrt_immediate_duty,score_wrt_global_best,average_immediate_duty_wrt_global_best
 2008,AGO,Education,All,Core,40.51877267,40.09622592,96.14914152
 2009,AGO,Education,All,Core,40.50274464,40.05304785,96.09143659
 2010,AGO,Education,All,Core,37.91202499,37.42794341,96.08281459
