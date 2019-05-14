@@ -13,7 +13,6 @@ NotLowBirWt,40,97,97,97,HiY
 WaterInHome,0,100,100,100,Core
 BasicSanitation,0,100,100,100,Core
 SafeSanitation,0,100,100,100,HiY
-AffordableHousing,50,100,100,100,HiY
 NotRelPoor,70,97,97,97,HiY
 NotAbsPoor,0,100,100,100,Core
 NotLTUnemployed,0,100,100,100,HiY
