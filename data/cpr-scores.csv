@@ -1,4 +1,4 @@
-year,country_ code,metric_code,mean,sd,lobound_10,upbound_90
+year,country_code,metric_code,mean,sd,lobound_10,upbound_90
 2017,AGO,arrest,2.513636827,0.585857511,1.763739228,3.263534546
 2018,AGO,arrest,3.784317732,0.667779982,2.929559469,4.639076233
 2017,AGO,assem,2.707835913,0.356527537,2.251480579,3.164191246
