@@ -14,5 +14,5 @@ WaterInHome,0,100,100,100,Core,who_unicef
 BasicSanitation,0,100,100,100,Core,who_unicef
 SafeSanitation,0,100,100,100,HiY,who_unicef
 NotRelPoor,70,97,97,97,HiY,"lis,oecd"
-NotAbsPoor,0,100,100,100,Core,"lis,wb_wdi"
+NotAbsPoor,0,100,100,100,Core,wb_wdi
 NotLTUnemployed,0,100,100,100,HiY,oecd
